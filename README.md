@@ -6,4 +6,4 @@
 
 这次也算实现了一个框架，也方便改成其他的乐器。
 
-![](C:\Users\jd3096\Desktop\micropython-flute\pic.jpg)
+![](pic.jpg)
